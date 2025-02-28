@@ -35,4 +35,4 @@ def merge_subtitles(file_path, lines_per_group=2, min_words=2):
         f.write(new_srt)
 
 # Usage: Merge lines with 2 or fewer words
-merge_subtitles("ok.srt", lines_per_group=4, min_words=2)
+merge_subtitles("ok.srt", lines_per_group=3, min_words=2)
