@@ -1,0 +1,5 @@
+srt
+youtube_transcript_api
+requests
+webvtt-py
+yt-dlp
