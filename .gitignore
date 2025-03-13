@@ -2,3 +2,6 @@ venv/
 client_secrets.json
 token.json
 *.mp4
+*.m4a
+*.png
+token.json
