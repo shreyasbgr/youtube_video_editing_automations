@@ -3,3 +3,11 @@ youtube_transcript_api
 requests
 webvtt-py
 yt-dlp
+pysrt
+pysub-parser
+google.auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+ffmpeg-python
+bs4
